@@ -68,7 +68,7 @@
 
 - 💼 LinkedIn: https://linkedin.com/in/your-link
 - 🧠 LeetCode: https://leetcode.com/u/your-id
-- 📧 Email: your-email@gmail.com
+- 📧 Email: aks234876a@gmail.com
 
 ---
 
